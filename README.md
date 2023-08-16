@@ -1,10 +1,12 @@
 # sharejeeni
-# sharepoint
 # This package helps to download files from sharepoint site using client id , client secret and tenant id via Azure Active Directory. 
 
-# First You need to register an App on Azure Active Directory and get tenant id , client id and client secret.
+- First You need to register an App on Azure Active Directory and get tenant id , client id and client secret.
 
-# Also you need sharepoint site domain name and site url.
+- Also you need sharepoint site domain name and site url.
+
+# Install package
+ pip install sharejeeni
 
  Code Eg:
 
