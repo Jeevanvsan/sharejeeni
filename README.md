@@ -12,9 +12,9 @@
 
     import sharejeeni
 
-        client_id = "3b724c43-7f32-4d6d-861f-xxxx"
-        client_secret = "5yB8Q~xxxxxxxxxxxxxxx"
-        tenant_id = 'b71957ca-e23b-4df6-b963-xxxxxx'
+        client_id = "xxxx-xxx-xxx-xxx-xxxx"
+        client_secret = "xxxxxxxxxxxxxxx"
+        tenant_id = 'xx-xx-xx-xxx-xxxxxx'
         
         sharepoint_url =  "https://xxxx.sharepoint.com"
         Site_name = 'TrialSite' # sharepoint site name
